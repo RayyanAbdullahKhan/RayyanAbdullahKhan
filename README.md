@@ -16,4 +16,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=RayyanAbdullahKhan&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-(https://www.linkedin.com/in/rayyan-abdullah-khan-0294483a1/)
+
