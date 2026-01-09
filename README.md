@@ -1,4 +1,4 @@
-# 💫 About Me:
+[# 💫 About Me:
 🛠️ I’m currently working on:<br>     Small CLI tools, experiments here and there to practice what I learn<br>     Some C++ on the side!<br><br>🤝 I’m looking to collaborate on:<br>     Beginner-to-intermediate C++ or Python projects<br>     Open-source tools that actually teach something instead of hiding magic<br><br>🤝 I’m looking for help with<br>     Writing efficient Python code<br>     Data structures and algorithms<br>     Cybersecurity related topics<br><br>🌱 I’m currently learning<br>     C++, Python, and some Java<br>     Data structures and algorithms<br>     Cybersecurity basics (labs, networking, system behavior, tools e.g wireshark)<br>     Getting familiar with Mac OS, Linux<br><br>
 
 
@@ -16,3 +16,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=RayyanAbdullahKhan&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+](https://www.linkedin.com/in/rayyan-abdullah-khan-0294483a1/)
